@@ -1,5 +1,5 @@
 {
-    "name": "m.broersen/bark",
+    "name": "mbroersen/bark",
     "description": "PHP framework",
     "type": "library",
     "require-dev": {
