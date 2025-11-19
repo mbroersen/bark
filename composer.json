@@ -8,13 +8,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "MBroersen\\Bark\\": "src/"
+            "Bark\\": "src/"
         }
     },
     "authors": [
         {
             "name": "m.broersen",
-            "email": "m.broersen@socialblue.com"
+            "email": "mark.broersen@outlook.com"
         }
     ]
 }
